@@ -220,23 +220,37 @@
             </property>
             <layout class="QVBoxLayout" name="verticalLayout_4">
              <item>
-              <widget class="QPushButton" name="pushButton_4">
+              <widget class="QPushButton" name="draw_polygon_pushButton">
                <property name="text">
-                <string>PushButton</string>
+                <string>Draw Polygon</string>
                </property>
               </widget>
              </item>
              <item>
               <widget class="QPushButton" name="pushButton_5">
                <property name="text">
-                <string>PushButton</string>
+                <string>Add Composed Action</string>
                </property>
               </widget>
              </item>
              <item>
               <widget class="QPushButton" name="pushButton_6">
                <property name="text">
-                <string>PushButton</string>
+                <string>Add Basic Action</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_4">
+               <property name="text">
+                <string>Add compused Object</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_7">
+               <property name="text">
+                <string>Add Basic Action</string>
                </property>
               </widget>
              </item>
