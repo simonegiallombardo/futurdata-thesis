@@ -1,4 +1,12 @@
-**TODO : Please modify this file according to the following**
+# Running the Application
 
-Fill this document with the complete instructions (for each architecture required) necessary to run the software.
-Please also provide working examples.
+## Quick Start
+```bash
+python run_app.py
+```
+
+## With Virtual Environment
+```bash
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+python run_app.py
